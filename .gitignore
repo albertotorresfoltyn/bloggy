@@ -1,0 +1,15 @@
+.DS_Store
+.tmp
+
+# dependencies
+/node_modules
+./nodemon.json
+nodemon.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
